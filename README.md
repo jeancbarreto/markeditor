@@ -7,6 +7,9 @@ In the project directory, you can run:
 ### Que App es
 Aplicación de prueba de BURA para comenzar ahi (Y)
 
+### VIDEO DE FUNCIÓN
+https://drive.google.com/file/d/1jlB1u1i5ngP92_RYQePeJ5Rs9vPzrs1d/view
+
 ### npm install
 Para instalar los paquetes nuevos, necesarios para la app
 
