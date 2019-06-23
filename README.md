@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ### Se debe iniciar la api antes de correr la app
+que se en encuentra en el siguiente link: https://github.com/jeancbarreto/api_markeditor

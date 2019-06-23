@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.1.1",
+    "@material-ui/icons": "^4.2.0",
+    "axios": "^0.18.0",
+    "draft-js": "^0.10.5",
+    "edit-json-file": "^1.2.1",
+    "firebase": "^5.8.4",
+    "fs": "0.0.1-security",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-draft-wysiwyg": "^1.13.2",
+    "react-redux": "^7.1.0",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

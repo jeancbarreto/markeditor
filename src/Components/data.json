@@ -1,0 +1,11 @@
+{
+    "Document": [
+        {
+            "type": "txt",
+            "url": "document",
+            "name": "nuevo_documento",
+            "content": "<div class='DraftEditor-root'><div class='DraftEditor-editorContainer'><div aria-describedby='placeholder-7c9cp' aria-label='rdw-editor' class='notranslate public-DraftEditor-content' contenteditable='true' role='textbox' spellcheck='false' style='outline: none; user-select: text; white-space: pre-wrap; overflow-wrap: break-word;'><div data-contents='true'><div class='' data-block='true' data-editor='7c9cp' data-offset-key='6ot5i-0-0'><div data-offset-key='6ot5i-0-0' class='public-DraftStyleDefault-block public-DraftStyleDefault-ltr'><span data-offset-key='6ot5i-0-0'><br data-text='true'>HOLA</span></div></div></div></div></div></div>",
+            "fecha_creacion": "23/06/2019"
+        }
+    ]
+}

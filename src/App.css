@@ -14,13 +14,23 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.editorText{
+  border: #282c34;
+  border: solid;
+  height: 90vh;
+  color: black;
+  background: white;
+  max-height: 90vh;
+  overflow-y: scroll;
 }
 
 @keyframes App-logo-spin {
