@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.1.1",
     "@material-ui/icons": "^4.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "draft-js": "^0.10.5",
     "edit-json-file": "^1.2.1",
     "firebase": "^5.8.4",
